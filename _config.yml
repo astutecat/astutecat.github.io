@@ -1,6 +1,6 @@
 name: "ShatteredPixels"
-markdown: redcarpet
 highlighter: pygments
+markdown: kramdown
 permalink: :title
 exclude: [README.md, LICENSE, Makefile]
 #baseurl: '/'
