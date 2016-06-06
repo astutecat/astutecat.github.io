@@ -1,7 +1,7 @@
 name: "ShatteredPixels"
 highlighter: rouge
 markdown: kramdown
-permalink: :title
+permalink: /:year/:month/:title
 exclude: [README.md, LICENSE, Makefile]
 #baseurl: '/'
 
