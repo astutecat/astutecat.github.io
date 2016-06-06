@@ -1,5 +1,5 @@
 name: "ShatteredPixels"
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 permalink: :title
 exclude: [README.md, LICENSE, Makefile]
