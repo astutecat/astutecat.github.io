@@ -1,0 +1,15 @@
+created: 20181219191144370
+modified: 20181226150343814
+tags: $:/tags/AboveStory
+title: Page
+type: text/vnd.tiddlywiki
+
+<$reveal type="match" state="$:/state/sidebar" text="no"></$reveal>
+
+<h1>AstuteCat's Blog</h1>
+
+<$button to="Index">Index</$button>
+
+{{$:/core/ui/SideBarSegments/search}}
+
+<$set name="$:/state/sidebar" value="no"></$set>
